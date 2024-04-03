@@ -144,6 +144,7 @@ body {
     .apresentacao {
         flex-direction: column-reverse;
         padding: 0% 4% 4%;
+        gap: 40px;
     }
 
     .apresentacao__conteudo {
